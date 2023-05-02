@@ -5,7 +5,14 @@ int num = 99;
 
 int *p = &num;  // Assing [p] as a pointer to the [num] address
 
-printf("The [p] will print the memory address : %p\n", p);
+//this will print the [p] address Not the address that p points to.
+printf("The [p] will print the memory address of num : %p\n", &p);
+//this will print the address that [p] points to.
+printf("The [p] will print the memory address OF p : %p\n", p);
+
+printf("The [p] will print the memory address : %p\n", &num);
+
+
 // here i can access the value of the pointer that [p] points too 
 // so [p] will print the address and [*p] will print the value of that address
 
