@@ -1,5 +1,6 @@
 data=[
-{latitude: 1231.119995, longitude: 13.156000 , info: 'speed=45'},
-{latitude: 213.119995, longitude: 456.149994 , info: 'speed=98'},
-{latitude: 123.540001, longitude: 54.152000 , info: 'speed=88'}
+{latitude: 33.154999, longitude: -65.456001 , info: ' speed=54
+'}{latitude: 30.230000, longitude: -70.525398 , info: ' speed =100
+'}{latitude: 29.155001, longitude: -69.458397 , info: ' speed=200
+'}
 ]
